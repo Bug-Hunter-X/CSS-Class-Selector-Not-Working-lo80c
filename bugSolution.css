@@ -1,0 +1,8 @@
+/* bugSolution.css */
+.my-class {
+  color: blue;
+  /* Added more specific styles to override any conflicting rules */
+  font-weight: bold; 
+}
+/* In some cases, you might need to add !important to the style to override a rule with higher specificity */
+/* .my-class { color: blue !important; } */
